@@ -3,4 +3,6 @@ My name is Faizan Ali.
 <br>
 I am 22 years old.
 <br>
-I am from Gojra city.
+I was born and raised in Gojra city.
+<br>
+I do my graduation in A.D(in arts).
