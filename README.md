@@ -12,3 +12,5 @@ Education and learning always a priority for me.
 In addition to my academic pursuits, I am actively involved in cricket.
 <br>
 Looking ahead I have ambitious goal for my future.
+<br>
+I aspire to become a generative AI engineer.
