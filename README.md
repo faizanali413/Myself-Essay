@@ -14,3 +14,5 @@ In addition to my academic pursuits, I am actively involved in cricket.
 Looking ahead I have ambitious goal for my future.
 <br>
 I aspire to become a generative AI engineer.
+<br>
+My journey so far has been filled with valuable lessons and experience, and i am excited to see what the future holds.
