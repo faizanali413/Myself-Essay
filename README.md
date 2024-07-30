@@ -6,3 +6,5 @@ I am 22 years old.
 I was born and raised in Gojra city.
 <br>
 I do my graduation in A.D(in arts).
+<br>
+Education and learning always a priority for me.
